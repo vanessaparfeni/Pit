@@ -55,10 +55,10 @@ main{
     align-items: center;
   
 
-    & .output{
+funcHome{
         width: 90%;
         height: 90%;
-        box-shadow: 0 0 10px black;
+        box-shadow: 0 0 10px rgb(163, 106, 106);
         border-radius: 5px;
         padding: 5px;
         overflow-y: auto;
