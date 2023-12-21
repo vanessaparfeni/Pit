@@ -315,5 +315,8 @@ function funcLunch() {
 
 
 function Clear(){
-    output.innerHTML = ''
+        output.innerHTML = ``
+        output.innerHTML = `
+        <h1>YOUR KETO DIET</h1>
+        <h5>План питания</h5>`
 }
