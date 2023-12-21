@@ -55,7 +55,7 @@ main{
     align-items: center;
   
 
-funcHome{
+    & .output{
         width: 90%;
         height: 90%;
         box-shadow: 0 0 10px rgb(163, 106, 106);
