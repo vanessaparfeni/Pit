@@ -88,3 +88,9 @@ main{
 h4{
     color: rgb(51, 181, 225);
 }
+b{
+    color: rgb(3, 119, 208);
+}
+h1,h3{
+    color: black;
+}
