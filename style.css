@@ -99,6 +99,7 @@ h1,h3{
         /* font-size: 11px; */
         width: 20%;
         height: 30%;
+        overflow-x: auto;
     }
 }
 
