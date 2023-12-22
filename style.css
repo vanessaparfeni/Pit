@@ -68,7 +68,7 @@ main{
 
 
         &::-webkit-scrollbar{
-            display: none;
+            display: flex;
         }
     }
     & pre{
@@ -101,4 +101,3 @@ h1,h3{
     }
 }
 
-<input type="text" onkeypress="myFunction()">
